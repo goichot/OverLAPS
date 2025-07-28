@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SamISetPasswordForeignUser2", "SamISetPasswordForeignUser2\SamISetPasswordForeignUser2.vcxproj", "{B1012BD3-062B-4F0D-AD64-544B11A47639}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AccountManager_ResetLocalAdminAccountPassword", "AccountManager_ResetLocalAdminAccountPassword\AccountManager_ResetLocalAdminAccountPassword.vcxproj", "{A3FE49D7-11D9-4F72-9B3E-3D78F797BBF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1012BD3-062B-4F0D-AD64-544B11A47639}.Debug|x64.ActiveCfg = Debug|x64
+		{B1012BD3-062B-4F0D-AD64-544B11A47639}.Debug|x64.Build.0 = Debug|x64
+		{B1012BD3-062B-4F0D-AD64-544B11A47639}.Debug|x86.ActiveCfg = Debug|Win32
+		{B1012BD3-062B-4F0D-AD64-544B11A47639}.Debug|x86.Build.0 = Debug|Win32
+		{B1012BD3-062B-4F0D-AD64-544B11A47639}.Release|x64.ActiveCfg = Release|x64
+		{B1012BD3-062B-4F0D-AD64-544B11A47639}.Release|x64.Build.0 = Release|x64
+		{B1012BD3-062B-4F0D-AD64-544B11A47639}.Release|x86.ActiveCfg = Release|Win32
+		{B1012BD3-062B-4F0D-AD64-544B11A47639}.Release|x86.Build.0 = Release|Win32
+		{A3FE49D7-11D9-4F72-9B3E-3D78F797BBF5}.Debug|x64.ActiveCfg = Debug|x64
+		{A3FE49D7-11D9-4F72-9B3E-3D78F797BBF5}.Debug|x64.Build.0 = Debug|x64
+		{A3FE49D7-11D9-4F72-9B3E-3D78F797BBF5}.Debug|x86.ActiveCfg = Debug|Win32
+		{A3FE49D7-11D9-4F72-9B3E-3D78F797BBF5}.Debug|x86.Build.0 = Debug|Win32
+		{A3FE49D7-11D9-4F72-9B3E-3D78F797BBF5}.Release|x64.ActiveCfg = Release|x64
+		{A3FE49D7-11D9-4F72-9B3E-3D78F797BBF5}.Release|x64.Build.0 = Release|x64
+		{A3FE49D7-11D9-4F72-9B3E-3D78F797BBF5}.Release|x86.ActiveCfg = Release|Win32
+		{A3FE49D7-11D9-4F72-9B3E-3D78F797BBF5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
